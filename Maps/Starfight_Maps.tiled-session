@@ -1,0 +1,219 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Grass.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "Tous les Fichiers (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "Base elements.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/Aureliowork/Documents/Project NSI/Maps/Castle elements.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Aureliowork/Documents/Starfight/Documents/Starfight/Maps/Farm elements.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Aureliowork/Documents/Starfight/Documents/Starfight/Maps/Food elements.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Aureliowork/Documents/Starfight/Documents/Starfight/Maps/Various elements.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Aureliowork/Downloads/STARFIGHT-main/Code/Maps/Food elements.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Aureliowork/Downloads/STARFIGHT-main/Code/Maps/Various elements.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1
+        },
+        "C:/Users/Aureliowork/Downloads/map tiled 2 finis.tmx": {
+            "scale": 0.5524074074074073,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 541.26718069058,
+                "y": 308.6490110626886
+            }
+        },
+        "C:/Users/Aureliowork/Downloads/map tiled 3.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 563.9999999999999,
+                "y": 603.3333333333334
+            }
+        },
+        "C:/Users/Aureliowork/Downloads/maps tiled 4.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 84,
+                "y": 441
+            }
+        },
+        "C:/Users/Projet NSI.tsx": {
+            "scaleInDock": 1
+        },
+        "Candy.tmx": {
+            "scale": 0.71,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 536.6197183098593,
+                "y": -482.3943661971832
+            }
+        },
+        "Enemies.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Factory.tmx": {
+            "scale": 0.71,
+            "selectedLayer": 17,
+            "viewCenter": {
+                "x": 540.8450704225353,
+                "y": 540.1408450704225
+            }
+        },
+        "Farm elements.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Farm.tmx": {
+            "scale": 0.71,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 540.8450704225353,
+                "y": 540.1408450704225
+            }
+        },
+        "Food elements.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 4
+        },
+        "Food1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 539.9999999999999,
+                "y": 540.6666666666665
+            }
+        },
+        "Grass.tmx": {
+            "scale": 0.7107407407407407,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 533.2464825429912,
+                "y": 588.82230328296
+            }
+        },
+        "Ice elements.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        },
+        "Industrial elements.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "MAP.tmx": {
+            "scale": 1.3355882352941175,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 340.67386038317557,
+                "y": 339.5507597445497
+            }
+        },
+        "MAP2.tmx": {
+            "scale": 0.9321875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 314.3144485417365,
+                "y": 337.3784780422394
+            }
+        },
+        "Maps/Food elements.tsx": {
+            "scaleInDock": 1
+        },
+        "Maps/Various elements.tsx": {
+            "scaleInDock": 1
+        },
+        "STARFIGHT-main/Code/Maps/Food elements.tsx": {
+            "scaleInDock": 1
+        },
+        "STARFIGHT-main/Code/Maps/Various elements.tsx": {
+            "scaleInDock": 1
+        },
+        "Various elements.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.75,
+            "scaleInEditor": 4
+        },
+        "grass.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 16,
+            "viewCenter": {
+                "x": 702.6666666666665,
+                "y": 612.6666666666667
+            }
+        },
+        "nes.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/Aureliowork/Documents/Starfight/Maps",
+    "last.imagePath": "C:/Users/Aureliowork/Documents/Starfight/Sprites/kenney_tiny-ski/Tilemap",
+    "map.height": 60,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 18,
+    "map.tileWidth": 18,
+    "map.width": 60,
+    "openFiles": [
+        "MAP.tmx",
+        "Food1.tmx",
+        "Food elements.tsx",
+        "Various elements.tsx",
+        "Candy.tmx",
+        "Farm elements.tsx",
+        "Industrial elements.tsx",
+        "Ice elements.tsx",
+        "Base elements.tsx",
+        "Grass.tmx",
+        "Farm.tmx",
+        "Factory.tmx",
+        "C:/Users/Aureliowork/Downloads/map tiled 2 finis.tmx"
+    ],
+    "project": "Starfight_Maps.tiled-project",
+    "recentFiles": [
+        "MAP.tmx",
+        "Food1.tmx",
+        "Food elements.tsx",
+        "Various elements.tsx",
+        "Candy.tmx",
+        "Farm elements.tsx",
+        "Industrial elements.tsx",
+        "Ice elements.tsx",
+        "Base elements.tsx",
+        "C:/Users/Aureliowork/Downloads/map tiled 2 finis.tmx",
+        "Factory.tmx",
+        "Farm.tmx"
+    ],
+    "tileset.lastUsedFilter": "Fichiers de jeu de tuiles Tiled (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
