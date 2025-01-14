@@ -1,5 +1,5 @@
 """Fenêtre qui programme le joueur"""
-
+ 
 import pygame
 import Items
 import Levels
