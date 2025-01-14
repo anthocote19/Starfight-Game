@@ -4,7 +4,7 @@ import time
 import random
 from Settings import *
 
-
+ 
 class Item(pygame.sprite.Sprite):
     def __init__(self, pos, group, id, effect):
         super().__init__(group)
