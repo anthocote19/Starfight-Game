@@ -2,7 +2,7 @@
 
 import pygame
 from Items import Item, Star, Coin, Orb, Food
-import random
+import random 
 
 # On utilse Pytmx qui est un module qui permet de lire nos fichers type tmx que l'on crée avec Tiled, un outil pour faire les maps.
 from pytmx.util_pygame import load_pygame
