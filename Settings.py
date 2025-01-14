@@ -1,6 +1,6 @@
 import pygame
 
-pygame.init()
+pygame.init() 
 
 Placeholder_map = "Candy"
 Coin_convergence = 50
