@@ -1,4 +1,4 @@
-import pygame
+import pygame 
 
 pygame.init()
 Text = pygame.font.SysFont("Arial", 20)
