@@ -3,7 +3,7 @@ import pygame
 import time
 import random
 from Settings import *
-
+ 
 
 class Enemy(pygame.sprite.Sprite):
     def __init__(self, pos, group, type, id):
