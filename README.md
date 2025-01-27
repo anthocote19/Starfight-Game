@@ -4,7 +4,7 @@
 **Starfight Game** is an exciting video game where two players compete in an intense space battle. Each player controls a spaceship and must use strategy and reflexes to destroy their opponent while avoiding obstacles. The game offers a retro experience with a simple and intuitive interface.
 
 ## Features
-- **Multiplayer Gameplay**:
+- **Multiplayer Gameplay**: 
   - Two players face off in real-time.
   - Intuitive controls for moving spaceships and shooting projectiles.
 
